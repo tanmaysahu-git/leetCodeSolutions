@@ -1,5 +1,5 @@
 package org.solutions.easy;
-
+//169. Majority Element
 public class MajorityElement {
     public static void main(String[] args) {
         int[] nums = {2,2,1,1,1,2,2};

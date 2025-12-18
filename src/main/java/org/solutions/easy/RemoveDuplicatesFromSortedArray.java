@@ -1,5 +1,5 @@
 package org.solutions.easy;
-
+//26. Remove Duplicates from Sorted Array
 public class RemoveDuplicatesFromSortedArray {
     public static void main(String[] args) {
 
