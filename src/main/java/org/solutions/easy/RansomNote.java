@@ -1,7 +1,7 @@
 package org.solutions.easy;
 
 import java.util.Arrays;
-
+//383. Ransom Note
 public class RansomNote {
     public static void main(String[] args) {
         String ransomNote = "bg";
